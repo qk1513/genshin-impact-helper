@@ -61,10 +61,10 @@ class Notify(object):
     SCKEY = ''
     # Cool Push
     COOL_PUSH_SKEY = ''
-    COOL_PUSH_MODE = 'send'
+    COOL_PUSH_MODE = ''
     # iOS Bark App
     BARK_KEY = ''
-    BARK_SOUND = 'healthnotification'
+    BARK_SOUND = ''
     # Telegram Bot
     TG_BOT_TOKEN = ''
     TG_USER_ID = ''
@@ -76,7 +76,7 @@ class Notify(object):
     # WeChat Work App
     WW_ID = ''
     WW_APP_SECRET = ''
-    WW_APP_USERID = '@all'
+    WW_APP_USERID = ''
     WW_APP_AGENTID = ''
     # iGot聚合推送
     IGOT_KEY = ''
